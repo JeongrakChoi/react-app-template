@@ -24,7 +24,8 @@ tsconfig.json     // tsx 설정
       └ ...
   └ pages         // 페이지
         └ ...
-└ dist            // 산출물 폴더
+App.tsx
+index.tsx
 ```
 
 ## 설치
