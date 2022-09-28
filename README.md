@@ -30,6 +30,14 @@ index.tsx
 
 ## 설치
 ```
-node, npm 설치 후
+node, git 설치 후
+> npm install
 > npm start
 ```
+
+## 메모
+
+- `create-react-app`의 typescript 템플릿 사용
+- 별도 라이브러리
+  - `sass`: sass(scss) 
+  - `jQuery`: don control 및 jquery 기반 라이브러리 사용 시
