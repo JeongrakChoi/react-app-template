@@ -6,7 +6,6 @@ React UI 작업용 Template
 
 - 주 사용자 : 웹 퍼블리셔  
 - UI 작업에 필요한 기본 폴더 구조 세팅  
-- dom control 위한 jquery 세팅
 
 ## 디렉토리  
 ```
